@@ -11,7 +11,7 @@ Everybody knows that a hash can't be "reversed", but we can get the original val
 
 Simple: We can make guesses and compare the results with the hash you input.
 
-Ex: Take the MD5 hash: 21232f297a57a5a743894a0e4a801fc3, how we can discover you value?
+Ex: Take the MD5 hash: 21232f297a57a5a743894a0e4a801fc3, how we can discover your value?
     Get a wordlist, making a hash of all the words and finnaly compare with the hash you want discover the value
 
     flower = 608f0b988db4a96066af7dd8870de96c is different than 21232f297a57a5a743894a0e4a801fc3
