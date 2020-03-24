@@ -1,8 +1,6 @@
 # HashDecryter
  A simple hash decryption tool
 
-A simple hash decryption tool
-
 # How to use?
 
 USE: python3 HashDecrypter.py <your_custom_wordlist.txt>
