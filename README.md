@@ -1,9 +1,11 @@
+# Educational Purpose Only
+
 # HashDecryter
  A simple hash decryption tool
 
 # How to use?
 
-USE: python3 HashDecrypter.py <your_custom_wordlist.txt>
+USE: `python3 HashDecrypter.py <your_custom_wordlist.txt>`
 
 # How does it works?
 
